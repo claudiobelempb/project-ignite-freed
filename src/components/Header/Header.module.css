@@ -1,0 +1,16 @@
+.header__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--gray-800);
+  padding-block: 1.25rem;
+  gap: 0.5rem;
+}
+
+.header__container img {
+  height: 2rem;
+}
+
+.header__container strong {
+  margin: 0;
+}
